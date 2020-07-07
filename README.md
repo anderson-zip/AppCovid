@@ -49,7 +49,7 @@ Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e o [Expo](h
 ## :gear: Arquitetura do App
 
 Uma amostra de como as tecnologias estão se relacionando no AppCovid
-![](./doc/covid.png)
+![](./doc/arquitetura.png)
 
 Foi utilizado o React Native para desenvolver a estrutura do app, e através da biblioteca axios consumimos a api do sobre o Covid que nos retorna os vídeos desejados.
 
