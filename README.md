@@ -10,7 +10,7 @@
 [![NPM License][npm-license]][npm-license]
 [![Code Size][code-size]][code-size]
 
-Aplicativo mobile que consome a Api do Covide e lista os casos em cada região.
+Aplicativo mobile que consome a Api do Covid-19 e lista os casos em cada região.
 
 <p align="center">
   
