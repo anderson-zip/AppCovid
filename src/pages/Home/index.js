@@ -91,7 +91,7 @@ function Home() {
     <Container>
       <StatusBar barStyle="light-content" backgroundColor="#0f7778" />
       <Header>
-        <TextHeader>COVID - 19</TextHeader>
+        <TextHeader>Estatísticas sobre o Covid-19 no Brasil</TextHeader>
         <ImageHeader source={logoImg} />
       </Header>
 
@@ -115,6 +115,7 @@ function Home() {
                   <CalloutText>{state.state}</CalloutText>
                   <CalloutText>Casos Confirmados: {state.cases}</CalloutText>
                   <CalloutText>Mortos: {state.deaths}</CalloutText>
+                  <CalloutText>Casos Suspeitos: {state.suspects}</CalloutText>
                   <CalloutText>
                     Atualizado no dia: {state.formatDateTime}
                   </CalloutText>

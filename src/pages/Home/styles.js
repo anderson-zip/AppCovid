@@ -6,7 +6,7 @@ export const Container = styled.View`
 export const Header = styled.View`
   align-items: center;
   flex-direction: row;
-  background-color: #f0f0f5;
+  background-color: #ffffff;
   justify-content: space-between;
   padding: 5px 10px 0 10px;
   width: 100%;
@@ -19,6 +19,7 @@ export const StatusBar = styled.StatusBar``;
 export const CalloutContent = styled.View`
   width: 250px;
   justify-content: center;
+  
 `;
 export const CalloutText = styled.Text`
   color: #666;
